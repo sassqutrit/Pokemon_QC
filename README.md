@@ -56,6 +56,13 @@ La decisión de guardar los datos del Pokémon se basa en un circuito cuántico 
 
 Este proyecto combina la interacción clásica con una API y la computación cuántica, demostrando cómo los principios cuánticos pueden integrarse en aplicaciones cotidianas.
 
+## Imagenes de ejemplo de la ejecución
+
+[![torterra.jpg](https://i.postimg.cc/NF8gCY72/torterra.jpg)](https://postimg.cc/XBJSXRPn)
+[![information-Torterra.jpg](https://i.postimg.cc/yYXmcZ9s/information-Torterra.jpg)](https://postimg.cc/2VyLf32K)
+[![dato-Guardado-Torterra.jpg](https://i.postimg.cc/LXK5xyK7/dato-Guardado-Torterra.jpg)](https://postimg.cc/sBm3X429)
+
+
 
 # Indicaciones en Ingles
 # Pokémon Data Retrieval and Quantum Computing Decision-Making
